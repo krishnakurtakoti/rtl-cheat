@@ -24,6 +24,7 @@ VHDL and Verilog minimal examples. IC design and synthesis tutorials. Asserts us
         1.  [Clock tree](clock-tree.md)
         1.  [CPU](cpu.md)
             1.  [Y86](y86.md)
+            1.  [SMP](smp.md)
     1.  [Latch](latch.md)
     1.  [Vendors](vendors.md)
         1.  [Synopsys](synopsys.md)

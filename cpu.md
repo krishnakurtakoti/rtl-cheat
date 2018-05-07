@@ -10,6 +10,7 @@
     -   <http://moxielogic.org/blog/pages/about.html>
     -   <https://github.com/atgreen/moxie-cores> reference implementation in Verilog
     -   has an in-tree GCC backend: <https://stackoverflow.com/questions/4817950/what-is-the-smallest-simplest-cpu-that-gcc-can-compile-for?noredirect=1&lq=1>
+-   <https://github.com/bcrafton/processor> custom ISA, full stack: compiler to RTL
 
 ## Benchmarks
 
