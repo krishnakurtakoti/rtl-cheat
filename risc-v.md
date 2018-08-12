@@ -126,6 +126,7 @@ The project owner works at Rackspace, who is partnering with Google for open sou
 - <https://github.com/ridecore/ridecore> out of core, Verilog
 - <https://github.com/watz0n/learn-rv32i-asap> minimal, Chisel
 - <https://github.com/SpinalHDL/VexRiscv> A FPGA friendly 32 bit RISC-V CPU implementation. Uses SpinalHDL Scala-based HDL.
+- <https://github.com/SI-RISCV/e200_opensource> Verilog. "The Hummingbird E200 core is a two-stages pipeline based ultra-low power/area implementation, which has both performance and areas benchmark better than ARM Cortex-M0+ core, makes the Hummingbird E200 as a perfect replacement for legacy 8051 core or ARM Cortex-M cores in the IoT or other ultra-low power applications."
 
 ## SiFive
 
